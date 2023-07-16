@@ -22,3 +22,11 @@ margin-left: 25%;
     font-size: 30px;
     color: blue;
 }
+
+.naoordenada {
+    list-style-type: square;
+    }
+
+    .ordenada {
+        list-style-type: lower-roman;
+    }
