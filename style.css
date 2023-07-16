@@ -16,3 +16,9 @@ border: 10px solid black;
 padding: 20px;
 margin-left: 25%;
 }
+
+.lista {
+    text-align: left; 
+    font-size: 30px;
+    color: blue;
+}
