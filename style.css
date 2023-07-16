@@ -12,6 +12,7 @@ font-size: 22px;
 #temadapagina{
 width: 200px;
 height: 250px;
-
-
+border: 10px solid black;
+padding: 20px;
+margin-left: 25%;
 }
